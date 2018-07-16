@@ -1,1 +1,2 @@
-age_of_person = 19
+def age_of_person(num)
+  
