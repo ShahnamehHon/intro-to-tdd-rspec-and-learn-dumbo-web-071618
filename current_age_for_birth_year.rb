@@ -1,2 +1,2 @@
-def age_of_person(num)
-  
+def current_age_for_birth_year(num)
+end
